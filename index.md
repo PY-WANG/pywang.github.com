@@ -1,4 +1,5 @@
 ## Welcome to WANGPengyu Pages
+![GitHub Logo](/images/photo.jpg)
 ### 基本信息
   姓名：王鹏宇  （WANG Pengyu）  政治面貌：中国党员
   
@@ -25,8 +26,8 @@
   语言技能：英语CET6
   
   计算机技能：上海市多媒体三级证书
-  
-相关博客请查看 [我的CSDN](http://blog.csdn.net/Py_Wang) 
+  
+## 个人博客请查看 [我的CSDN](http://blog.csdn.net/Py_Wang) 
 
 ### Markdown
 
