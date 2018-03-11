@@ -20,14 +20,15 @@
   - 2016年度 上海大学优秀毕业生
 
 ### 个人技能
-  * 熟悉Java、 C语言编程；具有JavaWeb后台开发的经验，基本掌握Spring框架；熟练使用MySQL数据
-库，熟悉MyCat分布式数据库中间件的应用开发；掌握Linux系统基本操作；了解Android App开发。
+  - 熟悉Java、 C语言编程；具有JavaWeb后台开发的经验，基本掌握Spring框架；熟练使用MySQL数据
+库，熟悉MyCat分布式数据库中间件的应用开发；掌握Linux系统基本操作；了解Android App开发
 
-  * 熟悉软件： Eclipse， Git， Maven， Android Studio， DbVisualizer， Office
+  - 熟悉软件： Eclipse， Git， Maven， Android Studio， DbVisualizer， Office
   
-  * 语言技能：英语CET6
+  - 语言技能：英语CET6
   
-  * 计算机技能：上海市多媒体三级证书
+  - 计算机技能：上海市多媒体三级证书
   
-### CSDN博客请查看 [http://blog.csdn.net/Py_Wang](http://blog.csdn.net/Py_Wang) 
+### CSDN博客
+[http://blog.csdn.net/Py_Wang](http://blog.csdn.net/Py_Wang) 
 
